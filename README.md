@@ -2,6 +2,8 @@
 ## MFI distribution and liquidity mining event
 The Marginswap token distribution is designed from the get-go to drive the adoption of the marginswap protocol and apps building on it. Hence, the remainder of MFI tokens will be distributed to users and early adopters of Marginswap.
 
+
+
 ### Distribution of protocol incentive tokens: 2,500,0000 MFI
 will be distributed starting at 4000 MFI daily, with a 0.1% daily contraction of that distribution amount.
 These tokens will be distributed for 980 days, starting from 04.03.2021 with the last distribution happening on 08.11.2023. At that point, the protocol need not incentivize trading and bond lending, and also if there need to be any new forms of incentives, the treasury should be able to cover it.
