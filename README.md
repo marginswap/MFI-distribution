@@ -1,1 +1,1 @@
-# MFI-distribution
+# MFI Distribution
