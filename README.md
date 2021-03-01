@@ -13,7 +13,6 @@ The daily distribution will happen in 2 stages:
 Uniswap liquidity mining 20%
 Bond lending 40%
 Margin swaps 30%
-Stakers 10%
 ### Distribution of marketing, bounty, treasury: 1,000,000 MFI
 200,000 of these tokens will be unlocked on 04/04/2021 and the rest of the tokens will be sent to a new vesting contract from which 100,000 MFI will be released every 60 days.
 A good percentage of the 1,000,000 MFI will be reserved for incentivizing other features we have planned for marginswap.
