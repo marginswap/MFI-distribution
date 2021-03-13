@@ -1,4 +1,4 @@
-# MFI Distribution
+# MFI Distribution And List Of 30 Days Presale Holders
 ## MFI distribution and liquidity mining event
 The Marginswap token distribution is designed from the get-go to drive the adoption of the marginswap protocol and apps building on it. Hence, the remainder of MFI tokens will be distributed to users and early adopters of Marginswap.
 
